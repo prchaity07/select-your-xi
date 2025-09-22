@@ -1,0 +1,134 @@
+[
+    {
+        "player_img": "https://i.ibb.co.com/twP18vYd/tamim-iqbal.png",
+        "player_name": "Tamim Iqbal",
+        "player_country": "Bangladesh",
+        "playing_role": "Batter",
+        "batting_style": "Left-hand",
+        "bowling_style": "None",
+        "price": "৳95,00,000",
+        "rating": 8.5,
+        "playing_style": "Left-hand batter"
+    },
+    {
+        "player_img": "https://i.ibb.co.com/8gYsq7h2/Shakib-Al-Hasan.jpg",
+        "player_name": "Shakib Al Hasan",
+        "player_country": "Bangladesh",
+        "playing_role": "All-rounder",
+        "batting_style": "Left-hand",
+        "bowling_style": "Left-arm orthodox spinner",
+        "price": "৳1,10,00,000",
+        "rating": 9.2,
+        "playing_style": "Left-hand batter / Left-arm orthodox spinner bowler"
+    },
+    {
+        "player_img": "https://i.ibb.co.com/fGXWQXHG/mushfiqur-rahim.jpg",
+        "player_name": "Mushfiqur Rahim",
+        "player_country": "Bangladesh",
+        "playing_role": "Wicket-keeper/Batter",
+        "batting_style": "Right-hand",
+        "bowling_style": "None",
+        "price": "৳88,00,000",
+        "rating": 8.1,
+        "playing_style": "Right-hand batter"
+    },
+    {
+        "player_img": "https://i.ibb.co.com/vCGVvQcX/mustafizur-rahman.jpg",
+        "player_name": "Mustafizur Rahman",
+        "player_country": "Bangladesh",
+        "playing_role": "Bowler",
+        "batting_style": "Left-hand",
+        "bowling_style": "Left-arm fast-medium",
+        "price": "৳98,00,000",
+        "rating": 8.9,
+        "playing_style": "Left-hand batter / Left-arm fast-medium bowler"
+    },
+    {
+        "player_img": "https://i.ibb.co.com/HLFpPNy2/andre-russel.jpg",
+        "player_name": "Andre Russell",
+        "player_country": "West Indies",
+        "playing_role": "All-rounder",
+        "batting_style": "Right-hand",
+        "bowling_style": "Right-arm fast",
+        "price": "৳1,50,00,000",
+        "rating": 9.5,
+        "playing_style": "Right-hand batter / Right-arm fast bowler"
+    },
+    {
+        "player_img": "https://i.ibb.co.com/ycQmNmkW/Sunil-Narine.jpg",
+        "player_name": "Sunil Narine",
+        "player_country": "West Indies",
+        "playing_role": "All-rounder",
+        "batting_style": "Left-hand",
+        "bowling_style": "Right-arm off-break",
+        "price": "৳1,20,00,000",
+        "rating": 8.8,
+        "playing_style": "Left-hand batter / Right-arm off-break bowler"
+    },
+    {
+        "player_img": "https://i.ibb.co.com/cK37Lh2c/hasan-mahmud.png",
+        "player_name": "Hasan Mahmud",
+        "player_country": "Bangladesh",
+        "playing_role": "Bowler",
+        "batting_style": "Right-hand",
+        "bowling_style": "Right-arm fast-medium",
+        "price": "৳45,00,000",
+        "rating": 7.5,
+        "playing_style": "Right-hand batter / Right-arm fast-medium bowler"
+    },
+    {
+        "player_img": "https://i.ibb.co.com/MD1b4HVX/liton-das.jpg",
+        "player_name": "Liton Das",
+        "player_country": "Bangladesh",
+        "playing_role": "Wicket-keeper/Batter",
+        "batting_style": "Right-hand",
+        "bowling_style": "None",
+        "price": "৳75,00,000",
+        "rating": 8.4,
+        "playing_style": "Right-hand batter"
+    },
+    {
+        "player_img": "https://i.ibb.co.com/xSfZz6wY/nazibullah-zadran.png",
+        "player_name": "Najibullah Zadran",
+        "player_country": "Afghanistan",
+        "playing_role": "Batter",
+        "batting_style": "Left-hand",
+        "bowling_style": "Left-arm off-break",
+        "price": "৳60,00,000",
+        "rating": 7.9,
+        "playing_style": "Left-hand batter / Left-arm off-break bowler"
+    },
+    {
+        "player_img": "https://i.ibb.co.com/9khY6NtF/afif-hossain.jpg",
+        "player_name": "Afif Hossain",
+        "player_country": "Bangladesh",
+        "playing_role": "All-rounder",
+        "batting_style": "Left-hand",
+        "bowling_style": "Right-arm off-break",
+        "price": "৳52,00,000",
+        "rating": 7.7,
+        "playing_style": "Left-hand batter / Right-arm off-break bowler"
+    },
+    {
+        "player_img": "https://i.ibb.co.com/8wpnXRS/imrul-kayes.jpg",
+        "player_name": "Imrul Kayes",
+        "player_country": "Bangladesh",
+        "playing_role": "Batter",
+        "batting_style": "Left-hand",
+        "bowling_style": "None",
+        "price": "৳48,00,000",
+        "rating": 7.3,
+        "playing_style": "Left-hand batter"
+    },
+    {
+        "player_img": "https://i.ibb.co.com/rGcq85hB/rilee-rossouw.webp",
+        "player_name": "Riley Rossouw",
+        "player_country": "South Africa",
+        "playing_role": "Batter",
+        "batting_style": "Left-hand",
+        "bowling_style": "Right-arm off-break",
+        "price": "৳85,00,000",
+        "rating": 8.6,
+        "playing_style": "Left-hand batter / Right-arm off-break bowler"
+    }
+]

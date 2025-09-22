@@ -21,8 +21,8 @@ function App() {
 
   const [availableBalance, setAvailableBalance] = useState(29000000)
 
+  const [purchasedPlayers, setPurchasedPlayers] = useState([])
   
-
 
 
 
@@ -46,8 +46,10 @@ function App() {
       toogle === true?  <Suspense
         fallback={<span className="loading loading-dots loading-xl flex justify-center items-center mx-auto"></span>}>
           
-        <AvailablePlayers availableBalance={availableBalance} setAvailableBalance={setAvailableBalance}  playersPromise={playersPromise}></AvailablePlayers>
-      </Suspense>: <SelectedPlayers></SelectedPlayers>
+        <AvailablePlayers purchasedPlayers ={purchasedPlayers} setPurchasedPlayers= {setPurchasedPlayers} availableBalance={availableBalance} setAvailableBalance={setAvailableBalance}  playersPromise={playersPromise}></AvailablePlayers>
+      </Suspense>:
+      
+      <SelectedPlayers purchasedPlayers={purchasedPlayers} ></SelectedPlayers>
 
 
     }

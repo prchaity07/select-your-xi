@@ -27,6 +27,7 @@ const PlayerCard = ({player, availableBalance, setAvailableBalance, purchasedPla
             
 
                 setPurchasedPlayers ([...purchasedPlayers, playerData])
+                toast("Purchased Player")
         }
 
         
